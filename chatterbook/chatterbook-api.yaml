@@ -54,4 +54,4 @@ paths:
             '*/*':
               schema:
                 type: string
-components: {}
+components: {} 
